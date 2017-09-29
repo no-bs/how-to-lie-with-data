@@ -5,7 +5,7 @@ A short instruction for busy professionals
 
 ## 2. A useless comparison with data liars of the past.
 
-Accountants! Since the times of the Biblical kings and even before them the treasurers were responsible for developing and mastering the skills of 'creative accounting'.
+Accountants! Since the times of the biblical kings and even before them the treasurers were responsible for developing and mastering the skill of 'creative accounting'.
 
 ## 3. An exaustive list of methods of lies involving data.
 
