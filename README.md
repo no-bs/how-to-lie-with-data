@@ -4,7 +4,7 @@ A short instruction for busy professionals
 
 
 ## 1. Why you are bound to lie if you are dealing with data?
-The answer is very simple: money! You need to be paid after the 'presentation of results' which involves data in an appealing form or you need to ignite an 'irrational exuberance' and an unreasonable expectation (of your future performance in the job) in a person who is about to give you money in advance. In both cases the adjectives suggest at least some degree of deception necessary for the 'optimization' of your monetary outcome.
+The answer is very simple: money! You need to be paid after the 'presentation of results' which involves data in an appealing form or you need to ignite an 'irrational exuberance' and an unreasonable expectation (of your future performance in the job) in a person who is about to give you money, position or something else of apparent value in advance. In both cases the adjectives suggest at least some degree of misunderstanding of reality (and deception on your part) necessary for the 'optimization' of your monetary outcome.
 
 ## 2. A useless comparison with data liars of the past.
 Lying with data is not new, it has been practiced for millenia by representative of 'learned professions' in human societies of the past. Typically they were well paid (see above) which served very well the purpose of development of branches of science and more granular methods of lies applicable only in particular classes of cases. But in general those were:
