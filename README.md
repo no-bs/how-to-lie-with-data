@@ -21,6 +21,8 @@ The beauty of their business method is in its obviousness. The planets and the s
 These are the original inventors of the 'quantitative lies' that will be described in full below. Notice the important aspect of their business-method - they were lying in order to sustain an endless 'research' phase of the project; that's why it required _more data_ , so, that there would be a constant proof of 'progress' justifying the spending (on the alchemists salary and equipment).
 ### War physicists! 
 This is an example of constant lie through secrecy and it is mostly based on a conspiracy theory that 'the opponent' _already has_ done or achieved something or is in the middle of doing that. In any case the obtained results are so secret that only a handful of people (most of them are congenital stupids wearing epaulettes) can be allowed to even know about their existence.
+### 'Data Scientists'
+This is a largely still emerging group of individuals absorbing the methods of the craft and enriching them with completely new inventions, such as intentionally complex algorithms introducing largely untraceable transformations into the available data and making it biased towards a particular algorithm of processing.
 
 ## 3. An exaustive list of methods of lies involving data.
 
