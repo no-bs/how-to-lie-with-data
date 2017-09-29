@@ -22,7 +22,7 @@ These are the original inventors of the 'quantitative lies' that will be describ
 ### War physicists! 
 This is an example of constant lie through secrecy and it is mostly based on a conspiracy theory that 'the opponent' _already has_ done or achieved something or is in the middle of doing that. In any case the obtained results are so secret that only a handful of people (most of them are congenital stupids wearing epaulettes) can be allowed to even know about their existence.
 ### 'Data Scientists'
-This is a largely still emerging group of individuals absorbing the methods of the craft and enriching them with completely new inventions, such as intentionally complex algorithms introducing largely untraceable transformations into the available data and making it biased towards a particular algorithm of processing.
+This is a largely still emerging group of individuals absorbing the methods of the craft and enriching them with completely new inventions, such as intentionally complex 'pre-processing' algorithms introducing largely untraceable transformations into the available data set which make it biased towards a particular algorithm of processing that particular 'data scientist' knows how to use. The complete behavioral research of the species 'data scientist' can be found in Appendix D.S.
 
 ## 3. An exaustive list of methods of lies involving data.
 
