@@ -1,7 +1,7 @@
 # How to lie with data.
 A short instruction for busy professionals
 
-## 1. Why you are bound to lie?
+## 1. Why you are bound to lie if you are dealing with data?
 
 ## 2. The useless comparison with liars of the past.
 
