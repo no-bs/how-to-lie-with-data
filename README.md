@@ -22,11 +22,11 @@ This is an example of constant lie through secrecy and it is mostly based on a c
 
 As with any information there are pretty much two main methods of lies: to withold information altogeter and to distort it. So, the complete list must have two main sections: 
 
-### I Lie by not telling about the existence of data.
+### I.  Lie by not telling about the existence of data.
 This is the simplest method. Just dont' tell _anybody_. The more sophisticated version of the method involves the actual destruction of all the records about the data. Pull out the pages of your lab journal with the series of measurements that you don't like, tear them apart, burn in a stove, take the ashes outside the building and let the wind blow them away... and forget about them. But don't forget to erase the files, delete all the intermediary results that showed you how contradictory is this particular data set for the case that you are about to make in your  presentation... 
 The version for researchers in government is to classify not only the data itself, but the very fact that you (of anybody else for that matter) knew that it ever existed. And that can be done, believe me!
 
-### II Lie by distorting the data.
+### II.  Lie by distorting the data.
 There are three main methods of distortion: exclude a part of the data (sampling, 'exclusion of outliers'), add fictional data to your data (imputation, 'pull-out-of-your- ass' method), and, finally, you can nudge the individual points in the direction of values that make your model work (arbitrary scaling, in physics - 'renormalization').
 
 ##  How to do your homework?
