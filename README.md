@@ -31,16 +31,13 @@ This is a largely still emerging group of individuals absorbing the methods of t
 As with any information there are pretty much two main methods of lies: to withold information altogeter and to distort it. So, the complete list must have two main sections: 
 
 ### I.  Lying by not telling about the existence of data.
-This is the simplest method. Just dont' tell _anybody_. The more sophisticated version of the method involves the actual destruction of all the records about the data. Pull out the pages of your lab journal with the series of measurements that you don't like, tear them apart, burn in a stove, take the ashes outside the building and let the wind blow them away... and forget about them. But don't forget to erase the files, delete all the intermediary results that had shown how contradictory is this particular data set for the case that you are about to make in your  presentation... 
-
-The version for researchers in government is to classify not only the data itself, but the very fact that you (of anybody else for that matter) knew that it ever existed. And that can be done, believe me!
+This is the simplest method. Just dont' tell _anybody_. The more sophisticated version of the method involves actual destruction of all the records about the data. Pull out the pages of your lab journal with the series of measurements that you don't like, tear them apart, burn in a stove, take the ashes outside the building and let the wind blow them away... and forget about them. But don't forget to erase the files, delete all the intermediary results that had shown how contradictory is this particular data set for the case that you are about to make in your  presentation... The version for researchers in government is to classify not only the data itself, not only the fact that it has been obtained, but the very fact that you (of anybody else for that matter) knew that it ever existed. And that can be done, believe me!
 
 ### II.  Lying by distorting the data.
 There are three main methods of distortion: 
 1. exclude a part of the data (sampling, 'bootstrap', 'exclusion of outliers');
-2. add fictional data to your data (imputation, 'pull-out-of-your-ass' method); 
-and, finally, 
-3. you can nudge the individual points in the direction of values that make your model work (arbitrary scaling, in physics - 'renormalization' or 'calibration').
+2. add fictional data to your data (imputation, interpolation, other versions of 'pull-out-of-your-ass' method); 
+3. and, finally, you can nudge the individual points in the direction of values that make your model work (arbitrary scaling, in physics - 'renormalization' or 'calibration').
 
 ##  How to do your homework?
 As I said earlier there is a sea of combinations of the main methods, described above, and it's up to your creativity where to steal your methods from. Google and Elsevier are the best sources for your research, but any shelf of contemporary scientific periodicals will give you enough material for developing your skill enough. You will not regret that you've spent some time looking with the eye of a _real_ researcher at the half-baked publications written by a student in a sleepless night before the deadline. When you are done with periodicals, start reading the works of Nobel prize winners. You will see many similarities but there will be one distinction - their works crystallize around some theme that gradually becomes _acceptable_ for the rest of the scientific community and will ultimately win them some __money__ (see paragraph 1).
