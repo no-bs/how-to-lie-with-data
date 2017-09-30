@@ -35,9 +35,11 @@ This is the simplest method. Just dont' tell _anybody_. The more sophisticated v
 
 ### II.  Lying by distorting the data.
 There are three main methods of distortion: 
-```1. exclude a part of the data (sampling, 'bootstrap', 'exclusion of outliers');
+```
+1. exclude a part of the data (sampling, 'bootstrap', 'exclusion of outliers');
 2. add fictional data to your data (imputation, interpolation, other versions of 'pull-out-of-your-ass' method); 
-3. and, finally, you can nudge the individual points in the direction of values that make your model work (arbitrary scaling, in physics - 'renormalization' or 'calibration').```
+3. and, finally, you can nudge the individual points in the direction of values that make your model work (arbitrary scaling, in physics - 'renormalization' or 'calibration').
+```
 
 ##  How to do your homework?
 As I said earlier there is a sea of combinations of the main methods, described above, and it's up to your creativity where to steal your methods from. Google and Elsevier are the best sources for your research, but any shelf of contemporary scientific periodicals will give you enough material for developing your skill enough. You will not regret that you've spent some time looking with the eye of a _real_ researcher at the half-baked publications written by a student in a sleepless night before the deadline. When you are done with periodicals, start reading the works of Nobel prize winners. You will see many similarities but there will be one distinction - their works crystallize around some theme that gradually becomes _acceptable_ for the rest of the scientific community and will ultimately win them some __money__ (see paragraph 1).
