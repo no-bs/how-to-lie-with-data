@@ -15,7 +15,7 @@ Another reason why you will be lying *regardless* of your funding is far more 'p
 
 Yes, you understood it right, he called them - two pieces of s...t left floating on the waves of history after the shipwreck of barbarianism. And you, my unbeknownst friend, are living in this 'later period'.
 
-Your 'data' is getting obsolete because of the natural changes in the world around you *before* it gets 'big' enough for making any of your conclusions statistically true. Or as Heraclitus said it: "Everything changes and nothing remains still ... and ... you cannot step twice into the same stream" (the translation of Seneca). This is what he thought about your 'inference' and 'prediction' approximately five hundred years before Jesus Christ was concealed by his mom and a dove.
+Your 'data' is getting obsolete because of the natural changes in the world around you *before* it gets 'big' enough for making any of your conclusions statistically true. Or as Heraclitus said it: "Everything changes and nothing remains still ... and ... you cannot step twice into the same stream" (the translation of Seneca). This is what he thought about your 'inference' and 'prediction' approximately five hundred years before Jesus Christ was allegedly concealed by his mom and a dove.
 
 ...
 
