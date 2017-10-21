@@ -10,7 +10,8 @@ You will lie because there wasn't enough time/money for doing an exaustive resea
 In case you (as it happens) never thought how much data you will need for a _reliable_ conclusion, remember the combination of words __"the curse of dimensionality"__ invented by a talanted data prestidigitator Richard Bellman. As you can see from the construction of the term he introduced the air of magic and mysticism so dear to the heart of Alchemists and professional liars into a pretty quantitative subject of measurement data handling. Yes, I'm referring to the word 'curse'. What the f...ck does the lifetime employee of the Rand Corporation mean?
 Who's the Wicked Witch of the wherever our next enemy will be, that has 'cursed' our extremely important Data? The answer is: it's in our head - the greed - we want to have more without paying the price of doing enough for it and we want it 'in real-time', read - now!
 
-Another reason why you will be lying *regardless* of your funding is far more 'philosophical'. Since the time of Plato and Aristotle, philosophers have posited true reality as "timeless", based on permanent substances, while processes are denied or subordinated to timeless substances.
+Another reason why you will be lying *regardless* of your funding is far more 'philosophical'. Since the time of Plato and Aristotle, philosophers have posited true reality as "timeless", based on permanent substances, while processes are denied or subordinated to timeless substances. Simply. Not. True. Or as Heraclitus said it: "Everything changes and nothing remains still ... and ... you cannot step twice into the same stream" (the translation of Seneca). Or, in other words: your 'model' will become obsolete because the underlying phenomena will change *before* you will have an opportunity to have enough data to figure out what it *was* (but no longer is).
+
 ...
 
 ## 2. A useless comparison with data liars of the past.
