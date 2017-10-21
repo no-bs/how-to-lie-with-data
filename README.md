@@ -13,7 +13,7 @@ Who's the Wicked Witch of the wherever our next enemy will be, that has 'cursed'
 Another reason why you will be lying *regardless* the stability of your sources of funding is far more 'philosophical'. Since the time of Plato and Aristotle, philosophers have posited true reality as "timeless", based on permanent substances, while processes are denied or subordinated to timeless substances. Simply. Not. True. As Sir Francis Bacon would put it:
 >"...But at a later period, when human learning had, as it were, been wrecked in the inundation of barbarians into the Roman empire, then the systems of Aristotle and Plato were preserved in the waves of ages, like blanks of a lighter and less solid nature."
 
-Yes, you understood it right, he called them - two pieces of s...t left floating on the waves of history after the shipwreck of barbarianism. And you, my unbeknownst friend, are living in this 'later period'.
+Yes, you understood it right, he (politely) called them - two pieces of s...t left floating on the waves of history after the shipwreck of barbarianism. And you, my unbeknownst friend, are living in this 'later period'.
 
 Your 'data' is getting obsolete because of the natural changes in the underlying phenomena *before* it gets 'big' enough for making any of your 'conclusions' statistically true. Or as Heraclitus said it: "Everything changes and nothing remains still ... and ... you cannot step twice into the same stream" (the translation of Seneca). This is what he thought about your 'inference' and 'prediction' approximately five hundred years before Jesus Christ was allegedly concealed by his mom and a dove.
 
