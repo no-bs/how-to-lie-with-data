@@ -17,7 +17,7 @@ Yes, you understood it right, he called them - two pieces of s...t left floating
 
 Your 'data' is getting obsolete because of the natural changes in the underlying phenomena *before* it gets 'big' enough for making any of your 'conclusions' statistically true. Or as Heraclitus said it: "Everything changes and nothing remains still ... and ... you cannot step twice into the same stream" (the translation of Seneca). This is what he thought about your 'inference' and 'prediction' approximately five hundred years before Jesus Christ was allegedly concealed by his mom and a dove.
 
-Every time you collect your data and put it into a rectangular table - remember, the number of dimensions of the phenomenon that you are describing is much bigger, and *it is changing* all the time! Do your job as fast as possible, sell it and get paid before it starts stinking, because when you are presenting it - it's a deteriorating corpse and you indeed *are* lying by saying that it's still alive.
+Every time you collect your data and put it into a rectangular table - remember, the number of dimensions of the phenomenon that you are describing is much bigger, and *it is changing* all the time! Do your job as fast as possible, sell it and get paid before it starts stinking, because by the time you will be presenting it - it will be a deteriorating corpse and you indeed *will be* lying by saying that it's still alive.
 
 ...
 
